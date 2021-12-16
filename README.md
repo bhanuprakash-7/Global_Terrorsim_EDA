@@ -40,3 +40,5 @@
  * Multi Line Chart
  * Pie Chart
  * Horizontal Bar Chart
+
+# Project Summary
