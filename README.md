@@ -42,3 +42,4 @@
  * Horizontal Bar Chart
 
 # Project Summary
+This EDA project aimed to explore the terrorist activities happening over the world from various  aspects and identifying the major affected countries from terrorism. The most common type of  attack used for a long time is hostage attack. The main growth of terrorism was from 2005-2014  and top most affected countries include Iraq, Afghanistan, Pakistan & India. The most casualties were reported from Iraq. In India there are two major groups active, Communist Party of India – Maoist (CPI-M) and Maoists. A decline in terrorist activities is seen from 2014 till the year the data  is available.
